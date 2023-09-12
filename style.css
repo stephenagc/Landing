@@ -1,0 +1,52 @@
+header {
+    background-color: #dd7702; /* Cor de fundo do cabeçalho. */
+    color: #ffffff; /* Cor do texto no cabeçalho. */
+    padding: 20px; /* Adiciona espaçamento interno. */
+    text-align: center; /* Centraliza o texto. */
+    border-radius: 49%;
+}
+
+body{background-color: #fddeba;}
+
+img{
+    max-width: 500px;
+    border: 1px solid black;
+}
+
+.titlemenu{
+    background-color: #dd7702;
+    color: #ffffff;
+    border-radius: 25%;
+    width: 5%;
+    font-size: 145%;
+}
+
+.produtos{
+    background-color: #dd770280 ;
+    width: 10%;
+    border-radius: 10%;
+    color: #ffffff;
+}
+.estudot{    background-color: #dd770280 ;
+    width: 22%;
+    border-radius: 10%;
+    color: #ffffff;
+}
+.estudo{
+    max-width: 1200px;
+}
+
+.localizacao{
+    background-color: #dd770280 ;
+    width: 10%;
+    border-radius: 10%;
+    color: #ffffff;
+
+}
+footer{background-color: #dd7702;
+text-align: center;
+color: #ffffff;
+position: absolute;
+width: 98%;
+border-radius: 50%;
+}
