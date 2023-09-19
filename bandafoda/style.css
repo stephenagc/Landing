@@ -1,0 +1,277 @@
+header{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.logo{
+    max-width: 100%;
+    width: 800px;
+}
+
+body{
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+.bio{
+    display: flex;
+    align-items: center;
+}
+
+.img1, .img2, .img3, .img4{
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 5px solid antiquewhite;
+}
+
+.img1{
+    width: 300px;
+}
+
+h1, h2{
+    margin-top: 100px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+.contato form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contato label, .contato input, .contato textarea {
+    margin-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px; ;
+}
+.contato{
+margin-bottom: 50px;
+margin-top: 200px;
+}
+
+footer{
+    background-color: antiquewhite;
+    padding: 10px 0;
+    text-align: center;
+}
+
+footer a{
+    margin: 0 5px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.redes:hover{
+    color: rgb(250, 235, 150);
+    transition: 0.5s all;
+}
+
+.bio{
+    text-align: center;
+}
+
+video{
+   margin-left: 330px;
+   border: 5px solid antiquewhite;
+}
+
+.img2, .img3, .img4{
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 150px;
+}
+
+.title2, .title3, .title4, .contato1, .title5{
+    margin-bottom: 100px;
+    font-size: 50px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+.contato2{
+margin-bottom: 100px;
+font-family: 'Julius Sans One', sans-serif;
+}
+
+.redes{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.tex{
+    font-size: xx-large;
+}
+
+.bio1{
+    font-size: x-large;
+    margin-right: 100px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.i1, .i2, .i3{    
+    display: flex;
+    align-items: start;
+}
+
+.img2{
+    margin-top: 60px;
+}
+
+.track1{
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.img3{
+    margin-top: 100px;
+}
+
+.img4{
+    margin-top: 60px;
+}
+
+.title5{
+    text-align:center ;
+}
+
+.pagina{
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    color: #000000;    
+    font-family: 'Julius Sans One', sans-serif;
+    font-size:medium ;
+}
+
+li:hover{
+    color: rgb(250, 235, 150);
+    transition: 0.5s all;
+}
+
+ul{
+    margin-left: 300px;
+}
+
+#botao{
+    border: 2px solid antiquewhite;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#botao:hover{
+    background-color: antiquewhite;
+    transition: 0.8s all;
+}
+
+.botaoo{
+   margin-left: 800px;
+}
+
+.shows{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+
+.img1, .img2, .img3, .img4{
+    transition: all 0.8s linear;
+}
+
+.img1:hover{
+    scale: 1.6;
+}
+
+.img2:hover{
+    scale: 1.6;
+}
+
+.img3:hover{
+    scale: 1.6;
+}
+
+.img4:hover{
+    scale: 1.6;
+}
+
+video{
+    transition: all 0.8s linear;
+}
+
+video:hover{
+    scale: 1.5;
+}
+
+.degrade1{
+    height: 40vh;
+    background-image: linear-gradient(antiquewhite,#f2f2f2);
+}
+
+footer{
+    height: -500vh;
+    background-image: linear-gradient(#f2f2f2,antiquewhite);
+    padding: 20px;
+}
+
+.mapa{
+
+    display: flex;
+}
+
+.mapa1{
+    margin-right:2%;
+    float: right;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+}
+
+.mapa2{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin-left: 50px;
+}
+
+.mapaa{
+
+    display: flex;
+}
+
+.mapa3{
+    margin-right:2%;
+    float: right;
+    margin-left: 100px;
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.mapa4{
+    width: 500px;
+    height: 400px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.mapa4{
+    border: 10px solid antiquewhite;
+}
+
+.mensagem1{
+    height: 100px;
+}
+
+.degrade2{
+    background-image: linear-gradient(#f2f2f2, rgba(250, 235, 215, 0.626), #f2f2f2);
+    height: 350vh;
+}
+
+.degrade3{
+    background-image: linear-gradient(#f2f2f2, rgba(250, 235, 215, 0.626), #f2f2f2);
+    height: 500vh;
+}
